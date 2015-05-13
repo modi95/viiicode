@@ -2,6 +2,9 @@ class operator_type(object):
 	def __init__(self):
 		return	
 
+	def execute(self):
+		return
+		
 #dp_inc
 class dp_inc(operator_type):
 	def __init__(self):
